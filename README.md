@@ -1,6 +1,5 @@
 <html>
     <head>
-      <title> my game </title>
    </head>
    <body>
       <img src="image.bmp" />
