@@ -5,26 +5,7 @@
       <img src="image.bmp" />
       <h1>my game</h1>
       <p> 
-        yis
-        uh...
-        ye
-        idk
-        just
-        just...
-        ok
-        nvm
-        to
-        much
-        work
-      </p>
-      <p>
-          so yea
-          don...
-          dont
-          do anithin
-      </p>
-      <p>
-        # Changelog
+       # Changelog
         ## [1.0] - the game
         ## Added
          - nothing
@@ -40,7 +21,12 @@
          - nothing
         ## Removed
          - nothing
-  
+      </p>
+      <p>
+          so yea
+          don...
+          dont
+          do anithin
       </p>
    </body>
 </html>
