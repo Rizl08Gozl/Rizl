@@ -1,8 +1,5 @@
-<html>
-    <head>
-      <title> my game </title>
-   </head>
-   <body>
+my game
+
       yis
       uh...
      ye
@@ -14,5 +11,4 @@
      to
      much
      work
-   </body>
-</html>
+
