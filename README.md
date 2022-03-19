@@ -23,8 +23,7 @@
           dont
           do anithin
       </p>
-   </body>
-</html>
+      <p>
 # Changelog
 ## [1.0] - the game
 ## Added
@@ -41,3 +40,7 @@
  - nothing
 ## Removed
  - nothing
+  
+      </p>
+   </body>
+</html>
