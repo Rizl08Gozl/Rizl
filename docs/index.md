@@ -1,7 +1,6 @@
 ## Welcome to my Website
 
-## My Official GitHub Page
- i will post stuff here like:
+ i will post stuff on my GitHub like:
  - special things
  - sneak peaks
  - downloadable files
@@ -34,3 +33,4 @@ Syntax highlighted code block
  - [Twitter](https://twitter.com/Rizl08gozl)
  - [Discord server]()
 
+`Debug.Log(" End of the Website :( ")`
