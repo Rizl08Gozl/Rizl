@@ -6,7 +6,7 @@
  - and again:
  - nothing
  **optional**
- - [visit the website](https://rizl08gozl.github.io/game_thing/)
+ - [visit my website](https://rizl08gozl.github.io/Rizl/)
  - yis
 ## Changed
  - made the game
@@ -14,3 +14,4 @@
  - nothing
 ## Removed
  - nothing
+a
