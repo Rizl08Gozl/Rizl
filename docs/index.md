@@ -13,10 +13,10 @@
 ```
 
  i will post stuff on my GitHub like:
- - special things
+ - special `things`
  - sneak peaks
- - downloadable files
- - and MORE!!!
+ - downloadable _content_
+ - and *MORE!!!*
 
 
 ## My Socials
