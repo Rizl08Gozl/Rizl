@@ -7,13 +7,13 @@
 
 
 
- ##Extra
+ ## Extra
   you can also visit my website [here](https://rizl08gozl.github.io/Rizl/)
   
   
   
  
-##Socials
+## Socials
   -[TikTok](https://www.tiktok.com/@rizl_dev)
   -[Twitter](https://twitter.com/Rizl08gozl)
   -[Discord server]()
