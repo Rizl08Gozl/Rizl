@@ -1,22 +1,23 @@
 # Rizl Dev
 ### Welcome to my Website
 
+### About Me
+```markdown
+6. Hi!
+7. i am Rizl (not my real name)
+8. i am currently 14 years old.
+9. i live in the Netherlands.
+10. my goal is to become a game developer/programmer
+11. i am currently studdying so i can do application development 
+12. (that's an education)
+```
+
  i will post stuff on my GitHub like:
  - special things
  - sneak peaks
  - downloadable files
  - and MORE!!!
 
-### About Me
-```markdown
-10. Hi!
-11. i am Rizl (not my real name)
-12. i am currently 14 years old.
-13. i live in the Netherlands.
-14. my goal is to become a game developer/programmer
-15. i am currently studdying so i can do application development 
-16. (that's an education)
-```
 
 ## My Socials
  - [TikTok](https://www.tiktok.com/@rizl_dev)
@@ -24,5 +25,5 @@
  - [Discord server](https://discord.gg/S3MrPnztXs)
 
 ```markdown
-25. Debug.Log(" the end of the Website :( ")
+28. Debug.Log(" the end of the Website :( ")
 ```
