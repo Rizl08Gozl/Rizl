@@ -5,7 +5,9 @@
  - special things
  - sneak peaks
  - downloadable files
+ - and MORE!!!
 
+### About Me
 ```markdown
 10. Hi!
 11. i am Rizl (not my real name)
@@ -16,11 +18,11 @@
 16. (that's an education)
 ```
 
-## Socials
+## My Socials
  - [TikTok](https://www.tiktok.com/@rizl_dev)
  - [Twitter](https://twitter.com/Rizl08gozl)
  - [Discord server](https://discord.gg/S3MrPnztXs)
 
 ```markdown
-25. Debug.Log(" End of the Website :( ")
+25. Debug.Log(" the end of the Website :( ")
 ```
