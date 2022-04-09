@@ -1,32 +1,18 @@
 # Rizl Dev
-## Welcome to my Website
+### Welcome to my Website
 
  i will post stuff on my GitHub like:
  - special things
  - sneak peaks
  - downloadable files
 
-
-### Markdown
-
-ye idk
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Hi!
+1. i am Rizl (not my real name)
+2. i am currently 14 years old.
+3. i live in the Netherlands.
+4. my goal is to become a game developer/programmer
+5. i am currently studdying so i can do application development (that is an education)
 ```
 
 ## Socials
