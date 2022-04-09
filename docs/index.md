@@ -18,6 +18,6 @@ Hi!
 ## Socials
  - [TikTok](https://www.tiktok.com/@rizl_dev)
  - [Twitter](https://twitter.com/Rizl08gozl)
- - [Discord server]()
+ - [Discord server](https://discord.gg/S3MrPnztXs)
 
 `Debug.Log(" End of the Website :( ")`
