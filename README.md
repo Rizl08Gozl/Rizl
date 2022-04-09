@@ -14,6 +14,6 @@
   
  
 ## Socials
-  -[TikTok](https://www.tiktok.com/@rizl_dev)
-  -[Twitter](https://twitter.com/Rizl08gozl)
-  -[Discord server]()
+ - [TikTok](https://www.tiktok.com/@rizl_dev)
+ - [Twitter](https://twitter.com/Rizl08gozl)
+ - [Discord server]()
