@@ -7,7 +7,7 @@
  - downloadable files
 
 ```markdown
-Hi!
+10. Hi!
 11. i am Rizl (not my real name)
 12. i am currently 14 years old.
 13. i live in the Netherlands.
