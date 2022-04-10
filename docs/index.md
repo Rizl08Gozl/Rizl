@@ -23,6 +23,7 @@
  - [TikTok](https://www.tiktok.com/@rizl_dev)
  - [Twitter](https://twitter.com/Rizl08gozl)
  - [Discord server](https://discord.gg/S3MrPnztXs)
+ - [itch.io](https://rizl-08gozl.itch.io/)
 
 ```markdown
 28. Debug.Log(" the end of the Website :( ")
